@@ -55,7 +55,8 @@
 #### Workspace Spec's:
 
 ![AMD.Ryzen](https://img.shields.io/badge/AMD%20Ryzen_5_2200X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
-![AMD.Radeon](https://img.shields.io/badge/AMD%20Radeon_RX_480D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
+![AMD.Radeon](https://img.shields.io/badge/ATI%20Radeon_RX_480D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
+![Dell](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
