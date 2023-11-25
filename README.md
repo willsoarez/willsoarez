@@ -6,7 +6,7 @@
 &nbsp;
 
 <div  align="center" style="margin-bottom:20px">
-<img width=60% align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=willsoarez&cover_image=true&theme=novatorem&show_offline=false&background_color=8b0000&border_color=ffffff&interchange=true&bar_color=ff0b5a&bar_color_cover=false" />
+<img width=60% align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=willsoarez&cover_image=true&theme=novatorem&show_offline=false&background_color=8b0000&border_color=ffffff&interchange=false&bar_color=ff0b5a&bar_color_cover=false" />
 </div>
 
 &nbsp;
