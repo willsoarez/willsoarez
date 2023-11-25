@@ -5,8 +5,8 @@
 
 &nbsp;
 
-<div  align="center" style="margin-bottom:20px">
-<img width=100% align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=willsoarez&cover_image=true&theme=novatorem&show_offline=false&background_color=8b0000&border_color=ffffff&interchange=false&bar_color=ff0b5a&bar_color_cover=false" />
+<div align="center" style="margin-bottom:20px">
+<img width=78% align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=willsoarez&cover_image=true&theme=novatorem&show_offline=false&background_color=8b0000&border_color=ffffff&interchange=false&bar_color=ff0b5a&bar_color_cover=false" />
 </div>
 
 &nbsp;
@@ -15,7 +15,7 @@
 
 ## Professional account - WillSoarez01
 
-<div  align="center" style="margin-bottom:20px">
+<div align="center" style="margin-bottom:20px">
 <img width=34% align="center" src="https://github-stats-black.vercel.app/api/top-langs/?username=willsoarez&layout=compact&theme=radical" />
 <img width=45% align="center" src="https://github-stats-omega-gold.vercel.app/api?username=willsoarez01&show_icons=true&theme=radical" />
 </div>
