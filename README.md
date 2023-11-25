@@ -4,7 +4,9 @@
 
 <p align="center" style="font-size:24px">If you've never done it, I'll be the first. And if they've already done it, I'll do better!</p>
 
-[![Spotify](https://novatorem-mu-beige.vercel.app/api/spotify)](https://open.spotify.com/user/willsoarez)
+<div  align="center" style="margin-bottom:20px">
+<img width=60% align="center" src="https://novatorem-mu-beige.vercel.app/api/spotify" />
+</div>
 
 <p align="center" style="font:league-spartan">From backend development using Nest to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
