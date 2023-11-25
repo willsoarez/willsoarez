@@ -16,7 +16,7 @@
 ## Personal account - Willsoarez
 
 <div  align="center" style="margin-bottom:20px">
-<img width=48% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willsoarez&theme=radical&mode=weekly" />
+<img width=48% align="center" src="https://github-stats-black.vercel.app/?user=willsoarez&theme=radical&mode=weekly" />
 <img width=45% align="center" src="https://github-stats-black.vercel.app/api?username=willsoarez&show_icons=true&theme=radical" />
 </div>
  
