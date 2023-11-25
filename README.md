@@ -32,6 +32,9 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Google.sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)&nbsp;
+![MS.Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+![MS.Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
@@ -48,6 +51,7 @@
 
 #### Workstation Tools:
 
+![MS.Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
@@ -56,7 +60,6 @@
 
 ![AMD.Ryzen](https://img.shields.io/badge/AMD%20Ryzen_5_2200X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
 ![AMD.Radeon](https://img.shields.io/badge/ATI%20Radeon_RX_480D-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
-![Aorus](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=gigabyte&logoColor=white)&nbsp;
 ![Dell](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)&nbsp;
 
 &nbsp;
