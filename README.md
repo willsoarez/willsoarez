@@ -96,8 +96,8 @@
 <a href="https://www.instagram.com/will.soarez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:contato@carvalhosoares.com.br" target="_blank"><img src="https://img.shields.io/badge/Hotmail-%230078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/carvalhosoares/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://steamcommunity.com/id/willsoarez/" target="_blank"><img src="https://img.shields.io/badge/steam-%23171d25?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-<a href="https://steamcommunity.com/id/willsoarez/" target="_blank"><img src="https://img.shields.io/badge/epic-%23171d25?style=for-the-badge&logo=epicgames&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/willsoarez/" target="_blank"><img src="https://img.shields.io/badge/Steam_ID-%23171d25?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/willsoarez/" target="_blank"><img src="https://img.shields.io/badge/Epic_Games-%23171d25?style=for-the-badge&logo=epicgames&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
  
 
