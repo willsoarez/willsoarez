@@ -9,16 +9,15 @@
 ## Professional account - WillSoarez01
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=WillSoarez01&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillSoarez01&show_icons=true&theme=radical&layout=compact" />
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=WillSoarez01&theme=radical&mode=weekly" />
+<img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=WillSoarez01&show_icons=true&theme=radical" />
 </div>
 
 ## Personal account - Willsoarez
 
-<div align="center" style="margin-bottom:10px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=willsoarez&theme=radical&mode=weekly" />
-<img width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsoarez&show_icons=true&theme=radical&layout=compact" />
-<img width=20% align="center" src="https://github-readme-stats.vercel.app/api?username=willsoarez&show_icons=true&theme=radical" />
+<div  align="center" style="margin-bottom:20px">
+<img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willsoarez&theme=radical&mode=weekly" />
+<img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=willsoarez&show_icons=true&theme=radical" />
 </div>
  
  &nbsp;
