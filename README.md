@@ -23,7 +23,7 @@
 ## Personal account - Willsoarez
 
 <div align="center" style="margin-bottom:20px">
-<img width=41% align="center" src="https://github-stats-black.vercel.app/api/top-langs/?username=willsoarez&layout=compact&theme=radical" />
+<img width=40% align="center" src="https://github-stats-black.vercel.app/api/top-langs/?username=willsoarez&layout=compact&theme=radical" />
 <img width=45% align="center" src="https://github-stats-black.vercel.app/api?username=willsoarez&show_icons=true&theme=radical" />
 </div>
  
