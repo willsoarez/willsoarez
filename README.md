@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/willsoarez/willsoarez/main/header.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center" style="font-size:24px">If you've never done it, I'll be the first. And if they've already done it, I'll do better!</p>
+<h1 align="center">If you've never done it, I'll be the first. And if they've already done it, I'll do better!</h1>
 
 <div  align="center" style="margin-bottom:20px">
 <img width=60% align="center" src="https://novatorem-mu-beige.vercel.app/api/spotify" />
