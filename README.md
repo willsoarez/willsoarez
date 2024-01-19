@@ -80,6 +80,7 @@
 ![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Oracle.dev](https://img.shields.io/badge/Oracle%20Developer-FFFFFF?style=for-the-badge&logo=Oracle&logoColor=orange)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Asana](https://img.shields.io/badge/Asana-4A154B?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
 
 #### Workspace Spec's:
 
