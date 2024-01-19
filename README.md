@@ -63,7 +63,7 @@
 ![React.Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TypeORM](https://img.shields.io/badge/TypeORM-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
-![Cypress](https://img.shields.io/badge/Cypress-F80000?style=for-the-badge&logo=Cypress&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-FFFFFF?style=for-the-badge&logo=Cypress&logoColor=green)&nbsp;
 
 #### ORM's:
 
