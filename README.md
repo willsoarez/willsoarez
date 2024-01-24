@@ -64,7 +64,7 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
 ![Cypress](https://img.shields.io/badge/Cypress-FFFFFF?style=for-the-badge&logo=Cypress&logoColor=green)&nbsp;
-![Electron](https://img.shields.io/badge/Electron-FFFFFF?style=for-the-badge&logo=Electron&logoColor=61DAFB)&nbsp;
+![Electron](https://img.shields.io/badge/Electron-FFFFFF?style=for-the-badge&logo=Electron&logoColor=#1b1c26)&nbsp;
 
 #### ORM's:
 
