@@ -13,13 +13,6 @@
 
 <p align="center" style="font:league-spartan">From backend development using Nest to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
-## Professional account - WillSoarez01
-
-<div align="center" style="margin-bottom:20px">
-<img width=49% align="center" src="https://github-stats-omega-gold.vercel.app/api/top-langs/?username=WillSoarez01&layout=compact&theme=radical" />
-<img width=45% align="center" src="https://github-stats-omega-gold.vercel.app/api?username=WillSoarez01&show_icons=true&theme=radical" />
-</div>
-
 ## Personal account - Willsoarez
 
 <div align="center" style="margin-bottom:20px">
