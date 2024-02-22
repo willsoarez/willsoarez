@@ -33,9 +33,9 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![MS.PowerBI](https://img.shields.io/badge/Microsoft_Power_BI-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=grey)&nbsp;
 ![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Google.looker](https://img.shields.io/badge/Looker_Studio-FFFFFF?style=for-the-badge&logo=looker&logoColor=blue)&nbsp;
-![MS.PowerBI](https://img.shields.io/badge/Microsoft_Power_BI-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=grey)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 #### Secondary Stack:
